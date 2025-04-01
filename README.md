@@ -71,7 +71,7 @@ From this project, I gained experience in:
 
 ## 🙏 Acknowledgements
 
-Thanks to my instructor Gabriel Betros for feedback and support during the rigging course and annoyingness pushed me to level up and stay persistent through all the rigging chaos.
+Thanks to my instructor [**Gabriel Betros**](https://www.linkedin.com/in/gabriel-betros-9aa807151/) for feedback and support during the rigging course and annoyingness pushed me to level up and stay persistent through all the rigging chaos.
 
 ---
 
